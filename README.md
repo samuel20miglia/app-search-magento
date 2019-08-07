@@ -26,7 +26,7 @@ Using this client assumes that you have already:
 
 - Magento >= 2.3.x installed and running
 
-- Php >= 7.1
+- PHP >= 7.1
 
 You can install the module in your project by using this composer command from your Magento project root:
 
